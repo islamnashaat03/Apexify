@@ -44,3 +44,4 @@ The loading screen features a staggered animation where each letter of "Apexify"
 ## License
 
 This project is created for Apexify Events. All rights reserved.
+
